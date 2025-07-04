@@ -51,8 +51,8 @@ I have a solid research foundation in areas such as multimodal machine learning,
 - Designing and developing an Any2Any MLLM systems for text, audio, image, and video understanding and generation.  
 - Responsible for dataset construction, instruction tuning, model architecture design, and full experimental pipeline.
 
-*Research on the Construction of Multi-Modal Large Language Model(2025.03 – Present)* 
-- A Video Emotion Recognition and Prediction System Based on Multi-Agent Context Understanding and Reasoning
+*Research on the Emotion Generation (2025.06 – Present)* 
+- Responsible for design a Video Emotion Recognition and Prediction System Based on Multi-Agent Context Understanding and Reasoning
 
 ### State Key Laboratory of Networking and Switching Technology ([SKLNST](https://sklnst.bupt.edu.cn/en/)) 
 *Student*
