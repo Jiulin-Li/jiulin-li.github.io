@@ -47,7 +47,7 @@ I have a solid research foundation in areas such as multimodal machine learning,
 ### Beijing Institute for General Artificial Intelligence ([BIGAI](https://www.bigai.ai/))
 *Multimodal Machine Learning Intern* 
 
-*Research on the Construction of Multi-Modal Large Language Model* | *2025.03 – Present* 
+*Research on the Construction of Multi-Modal Large Language Model(2025.03 – Present)*  
 - Designing and developing an Any2Any MLLM systems for text, audio, image, and video understanding and generation.  
 - Responsible for dataset construction, instruction tuning, model architecture design, and full experimental pipeline.
 
@@ -57,7 +57,7 @@ I have a solid research foundation in areas such as multimodal machine learning,
 ### State Key Laboratory of Networking and Switching Technology ([SKLNST](https://sklnst.bupt.edu.cn/en/)) 
 *Student*
 
-*Research on Test-Time Augmentation for Vision-Language Models*  | *2023.11 – 2025.01*  
+*Research on Test-Time Augmentation for Vision-Language Models(2023.11 – 2025.01)*   
 - Proposed WaveDN, a signal-based test-time augmentation method mitigating post-processing information loss, enhancing zero-shot image classification and retrieval without extra training.  
 - Developed AdaDN, a dynamic normalization strategy adapting to modality-specific embedding entropy, outperforming static normalization approaches.  
 - Led research ideation, full implementation, experiments, paper writing, and intern coordination.
@@ -66,9 +66,9 @@ I have a solid research foundation in areas such as multimodal machine learning,
 - Addressed overconfidence in 3D CNNs on low-information frames by introducing a fuzzy error loss, improving final aggregation and video recognition accuracy.
 
 ### College Student Entrepreneurship and Innovation Project of BUPT
-*Student team leader *
+*Student team leader*
 
-*Research on Optimization of Instant Delivery Strategies*| *2021.07 – 2022.06*  
+*Research on Optimization of Instant Delivery Strategies(2023.11 – 2025.01)*
 - Studied urban instant delivery systems, identifying inefficiencies in long-distance, cross-regional orders.  
 - Proposed an order-splitting and transfer station strategy to improve delivery performance.  
 - Led the student research team, contributing to algorithm design, data processing, implementation, and paper writing.
