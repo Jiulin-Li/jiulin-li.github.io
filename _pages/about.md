@@ -20,15 +20,15 @@ I am currently seeking **PhD candidate positions** in CS or interdisciplinary fi
 
 1. **Li, Jiulin**, M. Yang, Y. Tian, *et al.*  
    *Wavedn: A wavelet-based training-free zero-shot enhancement for vision-language models*,  
-   **ACM International Conference on Multimedia (CCF-A)**, 2024.
+   **ACM International Conference on Multimedia (CCF-A)**, 2024. [link](https://dl.acm.org/doi/10.1145/3664647.3681559)
 
 2. **Li, Jiulin**, M. Yang, Y. Liu, *et al.*  
    *A fuzzy error based fine-tune method for spatio-temporal recognition model*,  
-   **Chinese Conference on Pattern Recognition and Computer Vision (CCF-C)**, 2023.
+   **Chinese Conference on Pattern Recognition and Computer Vision (CCF-C)**, 2023. [link](https://link.springer.com/chapter/10.1007/978-981-99-8429-9_8)
 
 3. **Li, Jiulin**, S. Yang, W. Pan, *et al.*  
    *Meal delivery routing optimization with order allocation strategy based on transfer stations for instant logistics services*,  
-   **IET Intelligent Transport Systems (JCR Q2)**, 2022.
+   **IET Intelligent Transport Systems (JCR Q2)**, 2022. [link](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/itr2.12206)
 
 4. **Li, Jiulin**, M. Yang, Y. Tian, *et al.*  
    *Enhancing the Zero-shot Capability of Vision-Language Models from the Perspective of Modality Divergence*,  
@@ -40,29 +40,30 @@ I am currently seeking **PhD candidate positions** in CS or interdisciplinary fi
 
 - S. Yang, **Li, Jiulin**, W. Pan, *et al.*  
   *Real-time logistics order splitting method, apparatus, device, and storage medium*,  
-  **CN112950119B**, Sep. 2022.
+  **CN112950119B**, Sep. 2022. [link](https://patents.google.com/patent/CN112950119B/zh)
 
 ---
 
 ## 🧑‍🔬 Research Experience
 
-### Research on the Construction of Multi-Modal Large Language Model  
-**Beijing Institute for General Artificial Intelligence (BIGAI)** | *2025.03 – Present*  
-- Designing and developing an Any2Any large language model for text, audio, image, and video understanding and generation.  
+### Beijing Institute for General Artificial Intelligence (BIGAI)[https://www.bigai.ai/] | Multimodal machine learning intern 
+#### Research on the Construction of Multi-Modal Large Language Model | *2025.03 – Present* 
+- Designing and developing an Any2Any MLLM systems for text, audio, image, and video understanding and generation.  
 - Responsible for dataset construction, instruction tuning, model architecture design, and full experimental pipeline.
+#### Research on the Construction of Multi-Modal Large Language Model  | *2025.03 – Present* 
+- A Video Emotion Recognition and Prediction System Based on Multi-Agent Context Understanding and Reasoning
 
-### Research on Test-Time Augmentation for Vision-Language Models 
-*2023.11 – 2025.01*  
+### State Key Laboratory of Networking and Switching Technology(SKLNST)[https://sklnst.bupt.edu.cn/en/] | Student
+#### Research on Test-Time Augmentation for Vision-Language Models  | *2023.11 – 2025.01*  
 - Proposed **WaveDN** [1], a signal-based test-time augmentation method mitigating post-processing information loss, enhancing zero-shot image classification and retrieval without extra training.  
 - Developed **AdaDN** [2], a dynamic normalization strategy adapting to modality-specific embedding entropy, outperforming static normalization approaches.  
 - Led research ideation, full implementation, experiments, paper writing, and intern coordination.
 
-### Research on Fine-Tuning Methods for 3D CNNs in Video Understanding Tasks
-*2022.11 – 2023.06*  
+#### Research on Fine-Tuning Methods for 3D CNNs in Video Understanding Tasks | *2022.11 – 2023.06*  
 - Addressed overconfidence in 3D CNNs on low-information frames by introducing a fuzzy error loss, improving final aggregation and video recognition accuracy.
 
-### Research on Optimization of Instant Delivery Strategies
-*2021.07 – 2022.06*  
+### College Student Entrepreneurship and Innovation Project of BUPT| Student team leader 
+#### Research on Optimization of Instant Delivery Strategies |*2021.07 – 2022.06*  
 - Studied urban instant delivery systems, identifying inefficiencies in long-distance, cross-regional orders.  
 - Proposed an order-splitting and transfer station strategy to improve delivery performance.  
 - Led the student research team, contributing to algorithm design, data processing, implementation, and paper writing.
