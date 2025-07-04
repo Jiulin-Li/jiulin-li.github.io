@@ -11,7 +11,9 @@ redirect_from:
 
 I am a Master's student in Computer Science at the School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), expecting to graduate in 2026. In 2023, I received my Bachelor of Engineering degree from BUPT with a major in Internet of Things Engineering, and was also awarded a First-Class Honours degree from Queen Mary University of London.
 
-I am currently seeking **PhD candidate positions** in CS or interdisciplinary fields involving CS for **Fall 2026 or Spring 2027**. I have a solid research foundation in areas such as multimodal machine learning, test-time augmentation, and visual understanding. I am proficient in deep learning frameworks and have the ability to quickly reproduce projects for experimental purposes. Additionally, I possess strong teamwork skills, a sense of initiative, and self-motivation.
+I am currently seeking **PhD candidate positions** in CS or interdisciplinary fields involving CS for **Fall 2026 or Spring 2027**. 
+
+I have a solid research foundation in areas such as multimodal machine learning, test-time augmentation, and visual understanding. I am proficient in deep learning frameworks and have the ability to quickly reproduce projects for experimental purposes. Additionally, I possess strong teamwork skills, a sense of initiative, and self-motivation.
 
 
 ---
@@ -78,6 +80,7 @@ I am currently seeking **PhD candidate positions** in CS or interdisciplinary fi
 - Silver Medal, National *“Internet+”* Innovation & Entrepreneurship Competition (Express Delivery), 2022
 - Merit Student, BUPT, 2022 
 - Excellent League Member, Communist Youth League Committee of BUPT, 2021
+
 ---
 
 ## 🛠 Skills
