@@ -7,16 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# Jiulin Li | 李久林
-
-**Master's Student · School of Computer Science, BUPT**  
-**Email:** your_email@domain.com | [Google Scholar](#) | [GitHub](#) | [LinkedIn](#)
-
----
-
 ## About Me
 
 I am a Master's student in Computer Science at the School of Computer Science, Beijing University of Posts and Telecommunications (BUPT), expecting to graduate in 2026. In 2023, I received my Bachelor of Engineering degree from BUPT with a major in Internet of Things Engineering, and was also awarded a First-Class Honours degree from Queen Mary University of London.
+
+I am currently seeking **PhD candidate positions** in CS or interdisciplinary fields involving CS for **Fall 2026 or Spring 2027**. I have a solid research foundation in areas such as multimodal machine learning, test-time augmentation, and visual understanding. I am proficient in deep learning frameworks and have the ability to quickly reproduce projects for experimental purposes. Additionally, I possess strong teamwork skills, a sense of initiative, and self-motivation.
+
 
 ---
 
@@ -26,17 +22,17 @@ I am a Master's student in Computer Science at the School of Computer Science, B
    *Wavedn: A wavelet-based training-free zero-shot enhancement for vision-language models*,  
    **ACM International Conference on Multimedia (CCF-A)**, 2024.
 
-2. **Li, Jiulin**, M. Yang, Y. Tian, *et al.*  
-   *Adadn: A zero-shot enhancement for contrastive learning models considering modal divergence*,  
-   **Manuscript (Under review)**, 2025.
-
-3. **Li, Jiulin**, M. Yang, Y. Liu, *et al.*  
+2. **Li, Jiulin**, M. Yang, Y. Liu, *et al.*  
    *A fuzzy error based fine-tune method for spatio-temporal recognition model*,  
    **Chinese Conference on Pattern Recognition and Computer Vision (CCF-C)**, 2023.
 
-4. **Li, Jiulin**, S. Yang, W. Pan, *et al.*  
+3. **Li, Jiulin**, S. Yang, W. Pan, *et al.*  
    *Meal delivery routing optimization with order allocation strategy based on transfer stations for instant logistics services*,  
    **IET Intelligent Transport Systems (JCR Q2)**, 2022.
+
+4. **Li, Jiulin**, M. Yang, Y. Tian, *et al.*  
+   *Enhancing the Zero-shot Capability of Vision-Language Models from the Perspective of Modality Divergence*,  
+   **Manuscript (Under review)**, 2025.
 
 ---
 
