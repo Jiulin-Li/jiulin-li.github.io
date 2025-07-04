@@ -51,17 +51,17 @@ I am currently seeking **PhD candidate positions** in CS or interdisciplinary fi
 - Designing and developing an Any2Any large language model for text, audio, image, and video understanding and generation.  
 - Responsible for dataset construction, instruction tuning, model architecture design, and full experimental pipeline.
 
-### Research on Test-Time Augmentation for Vision-Language Models [1], [2]  
+### Research on Test-Time Augmentation for Vision-Language Models 
 *2023.11 – 2025.01*  
 - Proposed **WaveDN** [1], a signal-based test-time augmentation method mitigating post-processing information loss, enhancing zero-shot image classification and retrieval without extra training.  
 - Developed **AdaDN** [2], a dynamic normalization strategy adapting to modality-specific embedding entropy, outperforming static normalization approaches.  
 - Led research ideation, full implementation, experiments, paper writing, and intern coordination.
 
-### Research on Fine-Tuning Methods for 3D CNNs in Video Understanding Tasks [3]  
+### Research on Fine-Tuning Methods for 3D CNNs in Video Understanding Tasks
 *2022.11 – 2023.06*  
 - Addressed overconfidence in 3D CNNs on low-information frames by introducing a fuzzy error loss, improving final aggregation and video recognition accuracy.
 
-### Research on Optimization of Instant Delivery Strategies [4], [5]  
+### Research on Optimization of Instant Delivery Strategies
 *2021.07 – 2022.06*  
 - Studied urban instant delivery systems, identifying inefficiencies in long-distance, cross-regional orders.  
 - Proposed an order-splitting and transfer station strategy to improve delivery performance.  
