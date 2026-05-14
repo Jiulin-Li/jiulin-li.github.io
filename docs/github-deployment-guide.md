@@ -35,32 +35,32 @@ permalink: /
 During the Jekyll build, that page is generated as `_site/index.html`. Adding a
 second root homepage file can create duplicate output paths.
 
-## Deployment Workflow
+## Deployment Mode
 
-This repository includes `.github/workflows/pages.yml`. It builds the Jekyll
-site and deploys the generated `_site` artifact whenever `master` is pushed.
-
-This workflow requires the repository Pages source to be `GitHub Actions`. If
-`actions/configure-pages` fails with `Get Pages site failed` or `Not Found`,
-the repository has not been enabled for GitHub Actions based Pages deployment
-yet.
-
-On GitHub, configure the repository as follows:
+Use GitHub Pages' built-in branch deployment for this repository:
 
 1. Open `Settings`.
 2. Open `Pages`.
-3. Under `Build and deployment`, set `Source` to `GitHub Actions`.
-4. Push to `master`, or run the `Deploy Jekyll site to Pages` workflow manually.
+3. Under `Build and deployment`, set `Source` to `Deploy from a branch`.
+4. Set `Branch` to `master`.
+5. Set the folder to `/(root)`.
+6. Save.
 
-After the workflow finishes, the site should be available at:
+GitHub will then run its own `pages build and deployment` workflow when `master`
+is pushed. That built-in workflow is the one that publishes the site.
+
+This repository also includes `.github/workflows/pages.yml`, but that workflow
+is only a build check. It runs Jekyll and verifies that the site can be generated
+without calling the GitHub Pages API. It intentionally does not use
+`actions/configure-pages` or `actions/deploy-pages`, because those actions fail
+with `Get Pages site failed` when the repository is not configured for
+GitHub Actions based Pages deployment.
+
+After the built-in Pages deployment finishes, the site should be available at:
 
 ```text
 https://monsterpppp.github.io/jiulin-li.github.io/
 ```
-
-Do not choose `Deploy from a branch` while keeping this workflow enabled. That
-is a different Pages deployment mode; using both makes the Actions workflow fail
-or become redundant.
 
 ## Push Commands
 
@@ -68,7 +68,7 @@ From the repository root:
 
 ```bash
 git add -A
-git commit -m "Configure GitHub Pages deployment"
+git commit -m "Configure GitHub Pages branch deployment"
 git push origin master
 ```
 
@@ -88,7 +88,8 @@ baseurl: ""
 repository: "MonsterPPPP/MonsterPPPP.github.io"
 ```
 
-The same GitHub Actions workflow can still deploy the site.
+The build-check workflow can stay as-is, but the GitHub Pages branch source must
+then point to the renamed repository's default branch.
 
 ## If You Want `https://jiulin-li.github.io/`
 
