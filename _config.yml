@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Ch"
+locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "李九林 / Jiulin Li"
 title_separator          : "-"
 name                     : &name "Jiulin Li"
-description              : &description "hahahaha~"
+description              : &description "AI-native builder working across agents, multimodal systems, full-stack AI products, and vertical-domain data."
 url                      : https://jiulin-li.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiulin-li.github.io"
@@ -23,11 +23,11 @@ repository               : "jiulin-li.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jiulin Li"
+  name             : "李九林 / Jiulin Li"
   pronouns         : # example: "she/her"  
-  bio              : 以无厚入有间，恢恢乎其于游刃必有余地矣
+  bio              : AI-native builder | Agent 工作流 | 多模态系统 | 全栈 AI 产品
   location         : "Beijing"
-  employer         : "BUPT"
+  employer         : "BUPT / 六艺AI"
   uri              : # URL
   email            : "lijiulin@bupt.edu.cn" 
 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "jiulin-li"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

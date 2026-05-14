@@ -8,26 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  #- title: "Publications"
-  #  url: /pages/
+  - title: "项目"
+    url: /projects/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "论文"
+    url: /publications/
 
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-  #- title: "CV"
-  #  url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?user=730nEoQAAAAJ&hl=zh-CN&oi=ao
+
+  - title: "English"
+    url: /en/
