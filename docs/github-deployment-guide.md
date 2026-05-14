@@ -40,6 +40,11 @@ second root homepage file can create duplicate output paths.
 This repository includes `.github/workflows/pages.yml`. It builds the Jekyll
 site and deploys the generated `_site` artifact whenever `master` is pushed.
 
+This workflow requires the repository Pages source to be `GitHub Actions`. If
+`actions/configure-pages` fails with `Get Pages site failed` or `Not Found`,
+the repository has not been enabled for GitHub Actions based Pages deployment
+yet.
+
 On GitHub, configure the repository as follows:
 
 1. Open `Settings`.
@@ -52,6 +57,10 @@ After the workflow finishes, the site should be available at:
 ```text
 https://monsterpppp.github.io/jiulin-li.github.io/
 ```
+
+Do not choose `Deploy from a branch` while keeping this workflow enabled. That
+is a different Pages deployment mode; using both makes the Actions workflow fail
+or become redundant.
 
 ## Push Commands
 
