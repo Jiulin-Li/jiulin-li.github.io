@@ -18,7 +18,7 @@ My work combines four threads:
 - **Full-stack AI products**: React/Vite/TypeScript frontend, FastAPI backend, Postgres, payment/order/voucher workflows, AI report generation services, ops dashboards, and deployment verification.
 - **Research and data**: vision-language models, training-free test-time augmentation, multimodal benchmarks, vertical-domain QA data pipelines, and structured knowledge extraction.
 
-[中文首页](/) ｜ [Full project portfolio](/projects/) ｜ [Google Scholar](https://scholar.google.com/citations?user=730nEoQAAAAJ&hl=zh-CN&oi=ao) ｜ [Liuyi AI](https://www.liuyi.life)
+[中文首页]({{ '/' | relative_url }}) ｜ [Full project portfolio]({{ '/projects/' | relative_url }}) ｜ [Google Scholar](https://scholar.google.com/citations?user=730nEoQAAAAJ&hl=zh-CN&oi=ao) ｜ [Liuyi AI](https://www.liuyi.life)
 
 ## Selected Work
 

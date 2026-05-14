@@ -15,7 +15,7 @@ redirect_from:
 
 我不只把 AI 当作调用接口的工具，而是把它当作新的研发与产品组织方式：用 Agent 拆解任务、沉淀上下文、执行数据工作流、辅助部署验收、压缩长对话历史，并把结果转化为可复用的产品、文档和工程资产。
 
-[查看完整项目集](/projects/) ｜ [English version](/en/) ｜ [Google Scholar](https://scholar.google.com/citations?user=730nEoQAAAAJ&hl=zh-CN&oi=ao) ｜ [六艺AI](https://www.liuyi.life)
+[查看完整项目集]({{ '/projects/' | relative_url }}) ｜ [English version]({{ '/en/' | relative_url }}) ｜ [Google Scholar](https://scholar.google.com/citations?user=730nEoQAAAAJ&hl=zh-CN&oi=ao) ｜ [六艺AI](https://www.liuyi.life)
 
 ## 能力关键词
 
